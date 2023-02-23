@@ -7,7 +7,7 @@ Simulations for [my questions and answers on stats.stackexchange.com](https://st
 | [`var_pred_var_error`](https://github.com/kddubey/stats-stackexchange/tree/main/var_pred_var_error)                   | [Does higher variance in predictions <br>result in higher variance error estimation?](https://stats.stackexchange.com/q/568492/337906)     |
 | [`model_vs_noisy_labels.ipynb`](https://github.com/kddubey/stats-stackexchange/blob/main/model_vs_noisy_labels.ipynb) | [Prove that a model can outperform its <br>noisy training labels](https://stats.stackexchange.com/a/580894/337906)                         |
 | [`select_on_test.ipynb`](https://github.com/kddubey/stats-stackexchange/blob/main/select_on_test.ipynb)               | [Demonstrate that a model can simultaneously be <br>selected and evaluated on a test set](https://stats.stackexchange.com/a/570680/337906) |
-| (external) [`demo.ipynb`](https://github.com/kddubey/lm-classification/blob/main/demo.ipynb)                          | [Demonstrate that a more usable version of zero-shot text classification works](https://stats.stackexchange.com/q/601159/337906)           |
+| (external) [`demo.ipynb`](https://github.com/kddubey/lm-classification/blob/main/demo.ipynb)                          | [Demonstrate that a more usable version of <br>zero-shot text classification works](https://stats.stackexchange.com/q/601159/337906)           |
 
 If the notebook appears too vertically narrow in your browser, refresh.
 
