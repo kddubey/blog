@@ -1,4 +1,4 @@
-name: stats-se
+name: se
 channels:
   - conda-forge
   - defaults
