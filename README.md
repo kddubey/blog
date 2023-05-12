@@ -29,7 +29,7 @@ python -m venv se
 
 source se/bin/activate
 
-python -m pip install -r /path/to/stats-stackexchange/requirements.txt
+python -m pip install -r /path/to/stackexchange/requirements.txt
 ```
 
 Using conda:
