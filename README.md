@@ -17,10 +17,7 @@ Simulations for my questions and answers on
 
 ## Setup
 
-Most of this code is in Python 3.7+. So create an environment `se` using venv
-or conda:
-
-Using venv:
+Most of this code is in Python 3.7+. So create an environment `se` using venv:
 
 ```
 cd /your/venvs
@@ -32,13 +29,6 @@ source se/bin/activate
 python -m pip install -r /path/to/stackexchange/requirements.txt
 ```
 
-Using conda:
-
-```bash
-conda env create -f environment.yml
-
-conda activate se
-```
 
 ## Usage
 
