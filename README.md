@@ -17,7 +17,7 @@ Simulations for my questions and answers on
 
 ## Setup
 
-Most of this code is in Python 3.7+. So create an environment `se` using venv:
+Create an environment `se` using venv:
 
 ```
 cd /your/venvs
