@@ -1,8 +1,8 @@
 # stackexchange
 
 Simulations for my questions and answers on
-[stats.stackexchange.com](https://stats.stackexchange.com/users/337906/chicxulub) and
-[stackoverflow.com](https://stackoverflow.com/users/18758987/chicxulub).
+[stats.stackexchange.com](https://stats.stackexchange.com/users/337906/) and
+[stackoverflow.com](https://stackoverflow.com/users/18758987/).
 
 
 | dir/file link                                                                                                         | q/a link                                                                                                                                   |
