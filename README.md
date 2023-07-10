@@ -13,6 +13,7 @@ Simulations for my questions and answers on
 | (external) [`copa.ipynb`](https://github.com/kddubey/cappr/blob/main/demos/superglue/copa.ipynb)                      | [Demonstrate that a more usable version of <br>zero-shot text classification works](https://stats.stackexchange.com/q/601159/337906)       |
 | [`train_on_test_features`](https://github.com/kddubey/stats-stackexchange/tree/main/train_on_test_features)           | [Is training on test set features (not labels) ok?](https://stats.stackexchange.com/q/611877/337906)                                       |
 | [`sample_via_gumbel`](https://github.com/kddubey/stats-stackexchange/blob/main/sample_via_gumbel)                     | [Demonstrate that one can sample directly in log-space](https://stackoverflow.com/a/76230531/18758987)                                     |
+| [`precision_drop.ipynb`](https://github.com/kddubey/stackexchange/blob/main/precision_drop.ipynb)                     | A simple answer to: why did precision drop in production?                                                                                  |
 
 
 ## Setup
