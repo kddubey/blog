@@ -15,6 +15,7 @@ Simulations for my questions and answers on
 | [`sample_via_gumbel`](https://github.com/kddubey/stats-stackexchange/blob/main/sample_via_gumbel)                     | [Demonstrate that one can sample directly in <br>log-space](https://stackoverflow.com/a/76230531/18758987)                                                       |
 | [`precision_drop.ipynb`](https://github.com/kddubey/stackexchange/blob/main/precision_drop.ipynb)                     | A simple answer to: why did precision drop in <br>production?                                                                                                    |
 | [`auprc.ipynb`](https://github.com/kddubey/stackexchange/blob/main/auprc.ipynb)                                       | [Demonstrate that intuitive ways to reduce model <br>compute result in optimistic average precision <br>scores](https://stats.stackexchange.com/a/623015/337906) |
+| [`db_sampling_rate.ipynb`](https://github.com/kddubey/stackexchange/blob/main/db_sampling_rate.ipynb)                 | Calculate a sampling rate for a database query                                                                                                                   |
 
 
 ## Setup
