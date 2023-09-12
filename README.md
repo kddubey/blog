@@ -16,10 +16,13 @@ Simulations for my questions and answers on
 | [`precision_drop.ipynb`](https://github.com/kddubey/stackexchange/blob/main/precision_drop.ipynb)                     | A simple answer to: why did precision drop in <br>production?                                                                                 |
 | [`auprc.ipynb`](https://github.com/kddubey/stackexchange/blob/main/auprc.ipynb)                                       | [Demonstrate that integral approximators are <br>trying to hurt you](https://stats.stackexchange.com/a/623015/337906)                         |
 | [`db_sampling_rate.ipynb`](https://github.com/kddubey/stackexchange/blob/main/db_sampling_rate.ipynb)                 | Calculate a sampling rate for a database query                                                                                                |
-| [`negative_vs_downsampling.ipynb`](https://github.com/kddubey/stackexchange/blob/main/negative_vs_downsampling.ipynb) | (in-progress) [What's the need to formulate <br>negative sampling for contrastive training?](https://stats.stackexchange.com/q/623900/337906) |                                                                                         |
+| [`negative_vs_downsampling.ipynb`](https://github.com/kddubey/stackexchange/blob/main/negative_vs_downsampling.ipynb) | (in-progress) [What's the need to formulate <br>negative sampling for contrastive training?](https://stats.stackexchange.com/q/623900/337906) |
+| [`to_batch_or_not_to_batch`](https://github.com/kddubey/stackexchange/tree/main/to_batch_or_not_to_batch)             | (in-progress) Mathematically analyze and <br>demo dynamic batching                                                                            |
 
 
 ## Setup
+
+Need Python 3.8+
 
 Create an environment `se` using venv:
 
@@ -40,4 +43,5 @@ Colab](https://stackoverflow.com/a/67344477/18758987).
 
 ## Usage
 
-Interact w/ the code via Jupyter. I like [VS code notebooks](https://code.visualstudio.com/docs/datascience/jupyter-notebooks).
+Interact w/ the code via Jupyter. I like [VS code
+notebooks](https://code.visualstudio.com/docs/datascience/jupyter-notebooks).
