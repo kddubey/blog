@@ -1,3 +1,4 @@
+bambi>=0.13.0
 datasets>=2.9.0
 jupyter>=1.0.0
 matplotlib>=3.4.3
