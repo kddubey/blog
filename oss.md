@@ -1,7 +1,5 @@
 # Contributions to open source software
 
-Happy to give a little bit back :-)
-
 
 ## PRs
 
