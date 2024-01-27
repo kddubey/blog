@@ -1,6 +1,15 @@
 # Contributions to open source software
 
 
+## Packages
+
+### cappr
+
+https://cappr.readthedocs.io/
+
+Not too useful unless you need probabilities. Was fun to work on.
+
+
 ## PRs
 
 ### typed-argument-parser
@@ -27,12 +36,3 @@ https://github.com/guidance-ai/guidance/pull/469
 https://github.com/bambinos/formulae/pull/105
 
 https://github.com/bambinos/bambi/pull/770
-
-
-## Packages
-
-### cappr
-
-https://cappr.readthedocs.io/
-
-Not too useful unless you need probabilities. Was fun to work on.
