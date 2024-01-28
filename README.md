@@ -4,6 +4,9 @@ Simulations for my questions and answers on
 [stats.stackexchange.com](https://stats.stackexchange.com/users/337906/) and
 [stackoverflow.com](https://stackoverflow.com/users/18758987/).
 
+Bonus for employers and other types of stalkers: my [contributions to open source
+software](https://github.com/kddubey/stackexchange/blob/main/oss.md).
+
 
 | dir/file link                                                                                                         | q/a link                                                                                                                                   |
 |-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
