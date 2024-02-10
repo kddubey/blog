@@ -5,7 +5,7 @@
 
 ### cappr
 
-https://cappr.readthedocs.io/
+https://github.com/kddubey/cappr/
 
 Not too useful unless you need probabilities. Was fun to work on.
 
