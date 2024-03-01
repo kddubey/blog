@@ -3,6 +3,9 @@
 
 ## Transferability
 
+Update: found [Universal and Transferable Adversarial Attacks
+on Aligned Language Models](https://arxiv.org/abs/2307.15043).
+
 Are there systematic studies of transferability of white-box attacks against black-box
 target models? Say, as done in [Are aligned neural networks adversarially
 aligned?](https://arxiv.org/abs/2306.15447) by Carlini et al. (2023), an attack is
