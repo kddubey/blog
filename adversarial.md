@@ -23,6 +23,9 @@ easily/simulataneously defended against?)
 
 ## Is formatting a reasonable defense?
 
+Update: found [Misusing Tools in Large Language Models With Visual Adversarial Examples
+](https://arxiv.org/abs/2310.03185).
+
 Proposed and anectodally validated
 [here](https://www.promptingguide.ai/risks/adversarial#quotes-and-additional-formatting).
 
