@@ -7,7 +7,9 @@
 
 https://github.com/kddubey/cappr/
 
-Not too useful unless you need probabilities. Was fun to work on.
+Not too useful unless you need probabilities. Was fun to work on, especially figuring
+out [KV caching with batching and
+broadcasting](https://cappr.readthedocs.io/en/latest/cappr.huggingface.classify.html#cappr.huggingface.classify.cache_model).
 
 
 ## PRs
