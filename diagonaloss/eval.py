@@ -83,7 +83,10 @@ def _grouped_barplot_ratios(
     xticks = sorted(xticks)
 
     # Max y will be the denominator in the ratio/fraction
-    group_name_to_max_y = {group_name: max(x_to_y.values()) for group_name, x_to_y in group_name_to_x_to_y.items()}
+    group_name_to_max_y = {
+        group_name: max(x_to_y.values())
+        for group_name, x_to_y in group_name_to_x_to_y.items()
+    }
     num_groups = len(group_name_to_x_to_y)
     bar_width = np.diff(xticks).min() / (num_groups + 1)
     # bar_width is the solution to this equation:
@@ -118,7 +121,8 @@ def plot_across_dimensions(
     filename: str,
     figsize: Tuple[float, float] = (7, 7),
     title: str = (
-        "STSB test score for various embedding dimensions (via truncation),\nwith and " "without Matryoshka loss"
+        "STSB test score for various embedding dimensions (via truncation),\nwith and "
+        "without Matryoshka loss"
     ),
 ) -> None:
     # Sort each by key
@@ -158,7 +162,9 @@ if __name__ == "__main__":
 
     # Parse args
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("plot_filename", type=str, help="Where to save the plot of results")
+    parser.add_argument(
+        "plot_filename", type=str, help="Where to save the plot of results"
+    )
     parser.add_argument(
         "--model_names",
         nargs="+",
