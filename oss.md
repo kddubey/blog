@@ -28,6 +28,11 @@ https://github.com/abetlen/llama-cpp-python/pull/1002
 https://github.com/abetlen/llama-cpp-python/pull/1021
 
 
+### sentence-transformers
+
+https://github.com/UKPLab/sentence-transformers/pull/2564
+
+
 ### guidance
 
 https://github.com/guidance-ai/guidance/pull/469
