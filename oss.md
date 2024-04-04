@@ -30,6 +30,8 @@ https://github.com/abetlen/llama-cpp-python/pull/1021
 
 ### sentence-transformers
 
+https://github.com/UKPLab/sentence-transformers/pull/2573
+
 https://github.com/UKPLab/sentence-transformers/pull/2564
 
 
