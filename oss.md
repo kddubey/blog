@@ -19,6 +19,15 @@ broadcasting](https://cappr.readthedocs.io/en/latest/cappr.huggingface.classify.
 https://github.com/swansonk14/typed-argument-parser/pull/128
 
 
+### sentence-transformers
+
+https://github.com/UKPLab/sentence-transformers/pull/2573
+
+https://github.com/UKPLab/sentence-transformers/pull/2564
+
+https://github.com/UKPLab/sentence-transformers/pull/2576
+
+
 ### llama-cpp-python
 
 https://github.com/abetlen/llama-cpp-python/pull/952
@@ -26,13 +35,6 @@ https://github.com/abetlen/llama-cpp-python/pull/952
 https://github.com/abetlen/llama-cpp-python/pull/1002
 
 https://github.com/abetlen/llama-cpp-python/pull/1021
-
-
-### sentence-transformers
-
-https://github.com/UKPLab/sentence-transformers/pull/2573
-
-https://github.com/UKPLab/sentence-transformers/pull/2564
 
 
 ### guidance
