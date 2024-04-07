@@ -18,6 +18,8 @@ broadcasting](https://cappr.readthedocs.io/en/latest/cappr.huggingface.classify.
 
 https://github.com/swansonk14/typed-argument-parser/pull/128
 
+https://github.com/swansonk14/typed-argument-parser/pull/132
+
 
 ### sentence-transformers
 
