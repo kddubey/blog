@@ -27,6 +27,10 @@ https://github.com/UKPLab/sentence-transformers/pull/2573
 
 https://github.com/UKPLab/sentence-transformers/pull/2564
 
+https://github.com/UKPLab/sentence-transformers/pull/2582
+
+https://github.com/UKPLab/sentence-transformers/pull/2586
+
 https://github.com/UKPLab/sentence-transformers/pull/2576
 
 
