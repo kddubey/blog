@@ -1,5 +1,6 @@
 # Contributions to open source software
 
+The unemployment log.
 
 ## Packages
 
@@ -7,8 +8,8 @@
 
 https://github.com/kddubey/cappr/
 
-Not too useful unless you need probabilities. Was fun to work on, especially figuring
-out [KV caching with batching and
+Not too useful unless you need probabilities. Was fun to work on. Had to figure out [KV
+caching with batching and
 broadcasting](https://cappr.readthedocs.io/en/latest/cappr.huggingface.classify.html#cappr.huggingface.classify.cache_model).
 
 
@@ -20,12 +21,18 @@ https://github.com/swansonk14/typed-argument-parser/pull/128
 
 https://github.com/swansonk14/typed-argument-parser/pull/132
 
+These changes caused
+[v1.10.0](https://github.com/swansonk14/typed-argument-parser/releases/tag/v_1.10.0) to
+be released.
+
 
 ### sentence-transformers
 
 https://github.com/UKPLab/sentence-transformers/pull/2573
 
 https://github.com/UKPLab/sentence-transformers/pull/2564
+
+https://github.com/UKPLab/sentence-transformers/pull/2593
 
 https://github.com/UKPLab/sentence-transformers/pull/2582
 
