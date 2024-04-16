@@ -25,6 +25,8 @@ These changes caused
 [v1.10.0](https://github.com/swansonk14/typed-argument-parser/releases/tag/v_1.10.0) to
 be released.
 
+https://github.com/swansonk14/typed-argument-parser/pull/133
+
 
 ### sentence-transformers
 
