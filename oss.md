@@ -42,6 +42,10 @@ https://github.com/UKPLab/sentence-transformers/pull/2586
 
 https://github.com/UKPLab/sentence-transformers/pull/2576
 
+These changes partly caused
+[v2.7.0](https://github.com/UKPLab/sentence-transformers/releases/tag/v2.7.0) to be
+released.
+
 
 ### llama-cpp-python
 
