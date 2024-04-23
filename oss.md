@@ -1,6 +1,5 @@
 # Contributions to open source software
 
-The unemployment log.
 
 ## Packages
 
