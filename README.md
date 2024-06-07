@@ -1,10 +1,8 @@
-# stackexchange
+# My blog
 
-Simulations for my questions and answers on
+This is mostly a home for simulations for my questions and answers on
 [stats.stackexchange.com](https://stats.stackexchange.com/users/337906/) and
 [stackoverflow.com](https://stackoverflow.com/users/18758987/).
-
-And some other random things.
 
 Here also lies a list of my [contributions to open source
 software](https://github.com/kddubey/stackexchange/blob/main/oss.md).
@@ -30,16 +28,16 @@ My dumber code dumps are in [dumpy](https://github.com/kddubey/dumpy).
 
 Need Python 3.8+
 
-Create an environment `se` using venv:
+Create an environment `blog` using venv:
 
 ```
 cd /your/venvs
 
-python -m venv se
+python -m venv blog
 
-source se/bin/activate
+source blog/bin/activate
 
-python -m pip install -r /path/to/stackexchange/requirements.txt
+python -m pip install -r /path/to/blog/requirements.txt
 ```
 
 If the notebook says that it needs to run on a GPU machine, and you have a Google
