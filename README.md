@@ -1,6 +1,6 @@
 # My blog
 
-This is mostly a home for simulations for my questions and answers on
+Mostly simulations for some questions and answers on
 [stats.stackexchange.com](https://stats.stackexchange.com/users/337906/) and
 [stackoverflow.com](https://stackoverflow.com/users/18758987/).
 
