@@ -26,6 +26,10 @@ be released.
 
 https://github.com/swansonk14/typed-argument-parser/pull/133
 
+https://github.com/swansonk14/typed-argument-parser/pull/136
+
+https://github.com/swansonk14/typed-argument-parser/pull/139
+
 
 ### sentence-transformers
 
