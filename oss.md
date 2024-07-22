@@ -75,3 +75,15 @@ https://github.com/guidance-ai/guidance/pull/469
 https://github.com/bambinos/formulae/pull/105
 
 https://github.com/bambinos/bambi/pull/770
+
+
+## Issues
+
+### Tricycle
+
+https://github.com/bclarkson-code/Tricycle/issues/84
+
+
+### openai-python
+
+https://github.com/openai/openai-python/issues/744
