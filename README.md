@@ -14,7 +14,6 @@ simultaneously be selected and evaluated on a test set
 [`train_on_test_features`](./train_on_test_features): For high rank data and a small
 test set, train a PCA on test set features to boost test set performance!
 
-[[post]](https://stats.stackexchange.com/a/623015/337906)
 [`precision_drop.ipynb`](./precision_drop.ipynb): A simple answer to: why did precision
 drop in production?
 
@@ -40,9 +39,9 @@ in higher variance error estimation?
 [`sample_via_gumbel`](./sample_via_gumbel): Demonstrate that one can sample directly in
 log-space
 
-[[post]](https://stats.stackexchange.com/q/601159/337906): Demonstrate that a more
-usable version of zero-shot text classification works
-([cappr](https://github.com/kddubey/cappr/))
+[[post]](https://stats.stackexchange.com/q/601159/337906)
+[`cappr`](https://github.com/kddubey/cappr/): Demonstrate that a more usable version of
+zero-shot text classification works
 
 [`langchain_save_all.ipynb`](./langchain_save_all.ipynb): Save all method calls.
 Inspired by [this issue](https://github.com/langchain-ai/langchain/issues/912)
