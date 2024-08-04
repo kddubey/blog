@@ -6,6 +6,10 @@ software](https://github.com/kddubey/stackexchange/blob/main/oss.md).
 
 ## Posts
 
+Mostly simulations for some questions and answers on
+[stats.stackexchange.com](https://stats.stackexchange.com/users/337906/) and
+[stackoverflow.com](https://stackoverflow.com/users/18758987/).
+
 [[post]](https://stats.stackexchange.com/a/570680/337906)
 [`select_on_test.ipynb`](./select_on_test.ipynb): Demonstrate that a model can
 simultaneously be selected and evaluated on a test set
