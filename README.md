@@ -47,8 +47,8 @@ log-space
 [`cappr`](https://github.com/kddubey/cappr/): Demonstrate that a more usable version of
 zero-shot text classification works
 
-[`langchain_save_all.ipynb`](./langchain_save_all.ipynb): Save all method calls.
-Inspired by [this issue](https://github.com/langchain-ai/langchain/issues/912)
+[`langchain_save_all`](./langchain_save_all): Save all method calls. Inspired by [this
+issue](https://github.com/langchain-ai/langchain/issues/912)
 
 My dumber code dumps are in [dumpy](https://github.com/kddubey/dumpy).
 
