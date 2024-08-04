@@ -43,10 +43,6 @@ in higher variance error estimation?
 [`sample_via_gumbel`](./sample_via_gumbel): Demonstrate that one can sample directly in
 log-space
 
-[[post]](https://stats.stackexchange.com/q/601159/337906)
-[`cappr`](https://github.com/kddubey/cappr/): Demonstrate that a more usable version of
-zero-shot text classification works
-
 [`langchain_save_all`](./langchain_save_all): Save all method calls. Inspired by [this
 issue](https://github.com/langchain-ai/langchain/issues/912)
 
