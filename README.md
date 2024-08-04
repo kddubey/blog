@@ -25,11 +25,11 @@ hurt you
 database query
 
 [[post]](https://stats.stackexchange.com/q/623900/337906)
-[`negative_vs_downsampling.ipynb`](./negative_vs_downsampling.ipynb): (not done) What's
-the need to formulate negative sampling for contrastive training?
+[`negative_vs_downsampling.ipynb`](./negative_vs_downsampling.ipynb): What's
+the need to formulate negative sampling for contrastive training? (not done)
 
-[`to_batch_or_not_to_batch`](./to_batch_or_not_to_batch): (bad!) Mathematically analyze
-and demo dynamic batching
+[`to_batch_or_not_to_batch`](./to_batch_or_not_to_batch): Mathematically analyze
+and demo continuous batching (bad!)
 
 [[post]](https://stats.stackexchange.com/q/568492/337906)
 [`var_pred_var_error`](./var_pred_var_error): Does higher variance in predictions result
