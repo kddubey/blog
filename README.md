@@ -46,7 +46,7 @@ log-space
 [`langchain_save_all`](./langchain_save_all): Save all method calls. Inspired by [this
 issue](https://github.com/langchain-ai/langchain/issues/912)
 
-My dumber code dumps are in [dumpy](https://github.com/kddubey/dumpy).
+My dumber code dumps are in [`./dumpy/`](./dumpy/).
 
 
 ## Setup
