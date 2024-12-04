@@ -29,8 +29,9 @@ hurt you
 database query
 
 [[post]](https://stats.stackexchange.com/q/623900/337906)
-[`negative_vs_downsampling.ipynb`](./negative_vs_downsampling.ipynb): What's
-the need to formulate negative sampling for contrastive training? (not done)
+[`negative_vs_downsampling.ipynb`](./negative_vs_downsampling.ipynb): What's the need to
+formulate negative sampling for contrastive training? (not done). Also investigated in
+[`sigltt/train.ipynb`](./sigltt/train.ipynb).
 
 [`to_batch_or_not_to_batch`](./to_batch_or_not_to_batch): Mathematically analyze
 and demo continuous batching (bad!)
