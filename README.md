@@ -33,9 +33,6 @@ database query
 formulate negative sampling for contrastive training? (not done). Also investigated in
 [`sigltt/train.ipynb`](./sigltt/train.ipynb).
 
-[`to_batch_or_not_to_batch`](./to_batch_or_not_to_batch): Mathematically analyze
-and demo continuous batching (bad!)
-
 [[post]](https://stats.stackexchange.com/q/568492/337906)
 [`var_pred_var_error`](./var_pred_var_error): Does higher variance in predictions result
 in higher variance error estimation?
