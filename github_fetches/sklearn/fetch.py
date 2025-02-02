@@ -68,22 +68,19 @@ def extract_links(text: str | None) -> list[str]:
 
 
 @retry_default()
-def fetch_comments(
-    comments_url: str, num_comments: int = 10, per_page: int = 10
-) -> list[str]:
+def fetch_comments(comments_url: str, per_page: int = 10) -> list[str]:
     """
     Fetch all comments for an issue's comments and extract scikit-learn documentation
     links.
     """
     links = []
-    for page in range(1, num_comments + 1):
-        params = {"per_page": per_page, "page": page}
-        response = requests.get(comments_url, headers=HEADERS, params=params)
-        if response.status_code != 200:
-            break
-        comments: list[dict] = response.json()
-        for comment in comments:
-            links.extend(extract_links(comment.get("body", "")))
+    params = {"per_page": per_page, "page": 1}
+    response = requests.get(comments_url, headers=HEADERS, params=params)
+    if response.status_code != 200:
+        return []
+    comments: list[dict] = response.json()
+    for comment in comments:
+        links.extend(extract_links(comment.get("body", "")))
     return links
 
 
