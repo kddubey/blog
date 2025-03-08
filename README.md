@@ -41,8 +41,8 @@ in higher variance error estimation?
 [`sample_via_gumbel`](./sample_via_gumbel): Demonstrate that one can sample directly in
 log-space
 
-[`langchain_save_all`](./langchain_save_all): Save all method calls. Inspired by [this
-issue](https://github.com/langchain-ai/langchain/issues/912)
+[`langchain_save_all`](./llm_api/langchain_save_all/): Save all method calls. Inspired
+by [this issue](https://github.com/langchain-ai/langchain/issues/912)
 
 My dumber code dumps are in [`./dumpy/`](./dumpy/).
 
