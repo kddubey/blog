@@ -17,7 +17,7 @@ def batch_texts_by_token_count(
     texts: Iterable[str],
     max_tokens: int,
     avg_num_chars_per_token: float = 4.0,
-    max_batch_size: int = 100,  # there's a max # parameters for most schemas
+    max_batch_size: int = 100,  # TODO: there's a max # parameters for most schemas
 ):
     """
     Generate batches of texts with at most `max_tokens` per batch.
