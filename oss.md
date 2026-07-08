@@ -41,6 +41,16 @@ be released.
 
 https://github.com/UKPLab/sentence-transformers/pull/2573
 
+https://github.com/huggingface/sentence-transformers/pull/3791
+- Not merged, but it surfaced that `model.compile()` was silently a no-op for inference,
+  which got fixed in
+  [#3848](https://github.com/huggingface/sentence-transformers/pull/3848). Leaving it
+  here as a reference for what I shipped [to
+  prod](https://blog.sentry.io/enhancing-issue-grouping/#modernizing-v2-inference-5).
+  The subclass removes footguns caused by naively doing
+  `model.compile(mode="reduce-overhead")` (silent truncation or unbounded graph capture,
+  missed warmup) while minimizing latency. Just not maintainable as an repo example.
+
 https://github.com/UKPLab/sentence-transformers/pull/2564
 
 https://github.com/UKPLab/sentence-transformers/pull/2593
